@@ -27,5 +27,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.0.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha3'
     testCompile 'junit:junit:4.12'
-    compile project(':utilslibrary')
+    compile 'com.github.gdky005:TestUtils:1.0.1'
+//    compile project(':utilslibrary')
 }

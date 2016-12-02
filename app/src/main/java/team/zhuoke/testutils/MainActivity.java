@@ -1,7 +1,7 @@
 package team.zhuoke.testutils;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import team.zhuoke.utilslibrary.Log;
@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("hello");
 
         Log.wangqing("Hello");
+
     }
 }
